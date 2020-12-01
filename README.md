@@ -1,6 +1,6 @@
 # Entity Extraction from Unstructured Medical Texts
 
-This project was done as a part of a 2-credit special topic course (UE18CS306F).
+This project was done as a part of a 2-credit special topic course 'mini-project' (UE18CS306F)
 
 ## Features
 1. Rules-based label extractor
